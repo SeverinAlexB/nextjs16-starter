@@ -25,18 +25,12 @@ Welcome to the **Next.js 16 Starter** repository! This starter template is built
 
 ### Installation
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/synonymdev/nextjs-16-starter.git
-    cd nextjs-16-starter
-    ```
-
-2. **Install Dependencies**:
+1. **Install Dependencies**:
     ```bash
     npm install
     ```
 
-3. **Run Development Server**:
+2. **Run Development Server**:
     ```bash
     npm run dev
     ```
